@@ -2,7 +2,7 @@
 A curated collection of Python problem-solving exercises covering core programming concepts such as syntax, data types, control flow, functions, data structures, file handling, and exception handling. Designed to strengthen fundamentals and build a solid foundation before moving to Object-Oriented Programming (OOP).
 
 ## 📌 Topics Covered 
-🔹 Syntax, Variables & Data Types
+## 🔹 Syntax, Variables & Data Types
 
 - Python syntax rules and code structure
 
@@ -12,88 +12,80 @@ A curated collection of Python problem-solving exercises covering core programmi
 
 - Type conversion and data validation
 
-🔹 Operators
+## 🔹 Operators
 
-Arithmetic operators
+- Arithmetic operators
 
-Relational (comparison) operators
+- Relational (comparison) operators
 
-Logical operators
+- Logical operators
 
-Assignment operators
+- Assignment operators
 
-Membership and identity operators
+- Membership and identity operators
 
-🔹 Control Flow
+## 🔹 Control Flow
 
-Conditional statements:
+- Conditional statements: if, elif, else
 
-if, elif, else
+- Looping constructs:for loop ,while loop
 
-Looping constructs:
+- Loop control statements: break, continue, pass
 
-for loop
+## 🔹 String Manipulation
 
-while loop
+- String indexing and slicing
 
-Loop control statements:
+- Built-in string methods
 
-break, continue, pass
+- String formatting:
 
-🔹 String Manipulation
+- f-strings
 
-String indexing and slicing
+- format() method
 
-Built-in string methods
+## 🔹 Core Data Structures
 
-String formatting:
+- Lists
 
-f-strings
+- Operations, methods, and list comprehensions
 
-format() method
+- Tuples
 
-🔹 Core Data Structures
+- Immutability and practical use cases
 
-Lists
+- Sets
 
-Operations, methods, and list comprehensions
+- Set operations and methods
 
-Tuples
+- Dictionaries
 
-Immutability and practical use cases
+- Key–value pair handling and iteration
 
-Sets
+## 🔹 Functions
 
-Set operations and methods
+- Function definition and invocation
 
-Dictionaries
+- Parameters and return values
 
-Key–value pair handling and iteration
+- Default and keyword arguments
 
-🔹 Functions
+## 🔹 File Handling
 
-Function definition and invocation
+- Reading and writing files
 
-Parameters and return values
+- File modes (r, w, a, etc.)
 
-Default and keyword arguments
+## 🔹 Exception Handling
 
-🔹 File Handling
+- Runtime errors and exception types
 
-Reading and writing files
+- Exception handling using:
 
-File modes (r, w, a, etc.)
+- try
 
-🔹 Exception Handling
+- except
 
-Runtime errors and exception types
-
-Exception handling using:
-
-try
-
-except
-
-else
+- else
 
 finally
