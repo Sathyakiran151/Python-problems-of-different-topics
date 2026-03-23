@@ -6,7 +6,7 @@
 
 - Python syntax rules and code structure
 
-- Dynamic typing
+  Dynamic typing
 
 - Numeric, Boolean, and String data types
 
