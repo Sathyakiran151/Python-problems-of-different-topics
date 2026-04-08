@@ -6,7 +6,7 @@ elif number <10:
     print(number, "is less than 10 ")
 
 # Print if a number is positive, negative, or zero.
-number = int(input("Enter the numbers :"))
+number = float(input("Enter the numbers :"))
 if number>0:
     print("Number is postive")
 elif number<0:
